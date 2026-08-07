@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 180" role="img" aria-labelledby="title desc">
+  <title id="title">Logo FarySanté</title>
+  <desc id="desc">Fleur de lotus rose entourée de feuilles turquoise</desc>
+  <g fill="none" stroke="#53a9a2" stroke-linecap="round" stroke-width="7">
+    <path d="M24 122c22 24 51 34 86 31"/>
+    <path d="M196 122c-22 24-51 34-86 31"/>
+    <path d="M27 121c17-4 32 2 42 18-19 3-34-3-42-18Z" fill="#b8e0d9" stroke="none"/>
+    <path d="M193 121c-17-4-32 2-42 18 19 3 34-3 42-18Z" fill="#b8e0d9" stroke="none"/>
+  </g>
+  <g fill="#cb4c77">
+    <path d="M110 119c-29-13-45-36-43-65 24 3 39 19 43 44 4-25 19-41 43-44 2 29-14 52-43 65Z"/>
+    <path d="M110 111C91 98 82 77 87 51c18 8 28 26 23 48 5-22 15-40 33-48 5 26-4 47-23 60h-10Z" fill="#df7193"/>
+    <path d="M110 116c-13-14-18-32-12-54 17 12 22 29 12 54Z" fill="#f5a9bf"/>
+    <path d="M99 108c-17-4-29-15-35-33 18-1 31 10 35 33Z"/>
+    <path d="M121 108c17-4 29-15 35-33-18-1-31 10-35 33Z"/>
+  </g>
+  <path d="M77 126c14 12 51 12 66 0-8 23-22 33-33 33s-25-10-33-33Z" fill="#53a9a2"/>
+  <circle cx="110" cy="108" r="5" fill="#fff" opacity=".92"/>
+</svg>
